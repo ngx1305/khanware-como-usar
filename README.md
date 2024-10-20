@@ -1,5 +1,5 @@
 <div align="center">
-<br><br>
+  
 ## ✨ Cheat para a plataforma Khan Academy!
 <br><br><br>
 ### 🔓 Como usar:
