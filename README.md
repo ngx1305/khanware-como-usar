@@ -13,11 +13,7 @@
 4 - Abra o [Khan Academy](https://pt.khanacademy.org/) e clique no bookmark.
 
 ```js
-javascript: fetch(
-  'https://proxy.khanware.space/estrogen.productions/p/raw/z6dwi4dw03',
-)
-  .then(t => t.text())
-  .then(eval)
+javascript: fetch('https://proxy.khanware.space/estrogen.productions/p/raw/z6dwi4dw03',).then(t => t.text()).then(eval)
 ```
 
 <br><br>
