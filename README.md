@@ -1,7 +1,7 @@
 <div align="center">
 
 ## ✨ Cheat para a plataforma Khan Academy!
-
+<br><br><br>
 ### 🔓 Como usar:
 
 1 - Pressione CTRL + SHIFT + B.
