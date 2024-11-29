@@ -20,6 +20,5 @@ javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/
 
 **O Melhor cheat de KhanAcademy!**
 
-[Instagram](https://www.instagram.com/_khanware/)
+[Instagram](https://www.instagram.com/ngx1305/)
 
-[TikTok](https://www.tiktok.com/@_khanware)
